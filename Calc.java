@@ -1,5 +1,18 @@
-public class index {
+public class Calc {
+    public static int add(int a,int b){
+      
+    }
+    public static int sub(int a, int b){
+
+    }
+    public static int mul (int a, int b){
+
+    }
+    public static int div( int a, int b){
+
+    }
   public static void main(String[] args) {
-    System.out.println("Hello world");
+    int a = 2;
+
   }
 }
